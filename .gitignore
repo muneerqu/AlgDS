@@ -1,3 +1,4 @@
 .vscode/
 *.lnk
 /rand
+*__pycache__
