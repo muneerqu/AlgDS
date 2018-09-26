@@ -6,6 +6,8 @@ def range_to_list(k):
     return result
 
 
+
+
 def base_k_strings(n, k):
     if n == 0:
         return []
